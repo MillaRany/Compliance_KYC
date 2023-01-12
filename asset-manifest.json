@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Compliance_KYC/static/css/main.e6eed136.css",
+    "main.js": "/Compliance_KYC/static/js/main.e8521bf8.js",
+    "static/js/787.84b6d0c5.chunk.js": "/Compliance_KYC/static/js/787.84b6d0c5.chunk.js",
+    "static/media/ImagemFrontal.png": "/Compliance_KYC/static/media/ImagemFrontal.b1cbde94ad918772c956.png",
+    "static/media/PortalTransparencia.png": "/Compliance_KYC/static/media/PortalTransparencia.29af64dc478802ee2ebb.png",
+    "static/media/open-sans-all-700-normal.woff": "/Compliance_KYC/static/media/open-sans-all-700-normal.105e43091a26bbed22fe.woff",
+    "static/media/raleway-all-400-normal.woff": "/Compliance_KYC/static/media/raleway-all-400-normal.98e7ff86f2b9a46e19cc.woff",
+    "static/media/Compliance.svg": "/Compliance_KYC/static/media/Compliance.4426cdc297b3c3e1b4bd3dae63911f8b.svg",
+    "static/media/ConsultaCPF.png": "/Compliance_KYC/static/media/ConsultaCPF.0f36c57ef799c45d0d5a.png",
+    "static/media/raleway-latin-400-normal.woff2": "/Compliance_KYC/static/media/raleway-latin-400-normal.0bdecdd83e78d540c297.woff2",
+    "static/media/open-sans-cyrillic-ext-700-normal.woff2": "/Compliance_KYC/static/media/open-sans-cyrillic-ext-700-normal.00b4dd1737b042f58e99.woff2",
+    "static/media/open-sans-latin-700-normal.woff2": "/Compliance_KYC/static/media/open-sans-latin-700-normal.b245bc85ddeedb27a549.woff2",
+    "static/media/raleway-latin-ext-400-normal.woff2": "/Compliance_KYC/static/media/raleway-latin-ext-400-normal.e2c3693083a044bed680.woff2",
+    "static/media/open-sans-latin-ext-700-normal.woff2": "/Compliance_KYC/static/media/open-sans-latin-ext-700-normal.64471a17dcb915ab3332.woff2",
+    "static/media/raleway-cyrillic-ext-400-normal.woff2": "/Compliance_KYC/static/media/raleway-cyrillic-ext-400-normal.afca160d632851197a24.woff2",
+    "static/media/raleway-cyrillic-400-normal.woff2": "/Compliance_KYC/static/media/raleway-cyrillic-400-normal.f7d0cc4bf9cf8da4f023.woff2",
+    "static/media/open-sans-cyrillic-700-normal.woff2": "/Compliance_KYC/static/media/open-sans-cyrillic-700-normal.2cf6253fec5056197d00.woff2",
+    "static/media/open-sans-greek-700-normal.woff2": "/Compliance_KYC/static/media/open-sans-greek-700-normal.a0312547715346ffccb1.woff2",
+    "static/media/kyc.svg": "/Compliance_KYC/static/media/kyc.2a08cd233a21802da27973ac16a4aff0.svg",
+    "static/media/open-sans-hebrew-700-normal.woff2": "/Compliance_KYC/static/media/open-sans-hebrew-700-normal.3befb44d920b69550008.woff2",
+    "static/media/open-sans-vietnamese-700-normal.woff2": "/Compliance_KYC/static/media/open-sans-vietnamese-700-normal.b4c5968d5737aea8ed2d.woff2",
+    "static/media/raleway-vietnamese-400-normal.woff2": "/Compliance_KYC/static/media/raleway-vietnamese-400-normal.bb6f51e1b67ec8802d57.woff2",
+    "static/media/open-sans-greek-ext-700-normal.woff2": "/Compliance_KYC/static/media/open-sans-greek-ext-700-normal.8850c90c4b61e6472307.woff2",
+    "index.html": "/Compliance_KYC/index.html",
+    "main.e6eed136.css.map": "/Compliance_KYC/static/css/main.e6eed136.css.map",
+    "main.e8521bf8.js.map": "/Compliance_KYC/static/js/main.e8521bf8.js.map",
+    "787.84b6d0c5.chunk.js.map": "/Compliance_KYC/static/js/787.84b6d0c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6eed136.css",
+    "static/js/main.e8521bf8.js"
+  ]
+}
